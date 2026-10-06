@@ -110,6 +110,7 @@ The map also makes it easier to recognize gene orientation, IR-associated gene d
 
 # Part G. GitHub Documentation Link
 
+https://github.com/FrancisKyleOficiar/Plastid_Lilium_Oficiar/tree/main/Lab__Plastid_Genome_Visualization_folder
 
 # Reference for the Visualization Tool
 
